@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[techcrunch.com](https://techcrunch.com/2026/07/01/gemini-spark-macos/)",
+    "[rohitraj.tech](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[bgr.com](https://bgr.com/2026/07/02/your-google-gemini-data-is-being-used-for-a-lot-more-than-just-sending-you-ads/)",
+    "[techcrunch.com](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_lines=2; bento_density=grid-auto-flow:dense; competitors_sweep=pass; button_contrast=AA",
+  "generated_at": "2026-07-03T11:31:35.395457+00:00",
+  "headline": "Super vs Gemini \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Gemini",
+    "competitor": "Gemini",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Gemini. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Gemini AI agent",
+      "Gemini AI assistant",
+      "Gemini automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-gemini",
+    "title": "Super vs Gemini"
+  },
+  "summary": "A fair comparison of Super and Google Gemini for people evaluating personal AI agents and computer-use automation. Gemini is pushing browser-native and desktop automation through Gemini Spark and Gemini 3.5 Flash computer use. Super is built for people who want durable, repeated computer workflows \u2014 with a reusable computer-use cache that lowers cost and friction over time."
+}
